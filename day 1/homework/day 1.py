@@ -37,4 +37,3 @@ print(type("Luka"))
 print(type("Cxvedadze"))
 print(type(1,68))
 print(type(True))
-
